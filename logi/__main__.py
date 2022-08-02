@@ -97,7 +97,7 @@ PM_START_TEXT = f"[❤]({ START_IMG})""""
 ✪ ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ʙᴏᴛ's ᴄᴏᴍᴍᴀɴᴅs  ᴀɴᴅ ʜᴏᴡ ᴛʜᴇʏ ᴡᴏʀᴋ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ »  ᴄᴏᴍᴍᴀɴᴅs  ʙᴜᴛᴛᴏɴ!.
 ✪ ᴛʜɪs ɪs ᴀ ʙᴏᴛ ᴛᴏ ᴘʟᴀʏ ᴍᴜsɪᴄ ᴀɴᴅ ᴠɪᴅᴇᴏ ɪɴ ɢʀᴏᴜᴘs, ᴛʜʀᴏᴜɢʜ ᴛʜᴇ ɴᴇᴡ ᴛᴇʟᴇɢʀᴀᴍ ᴠɪᴅᴇᴏ ᴄʜᴀᴛs.
 ───────────────────────
-× *Pᴏᴡᴇʀᴇᴅ Bʏ: ꧁☆𝑳𝑶𝑮𝑰━━━☆!*
+× *Pᴏᴡᴇʀᴇᴅ Bʏ: ꧁☆jezznolimitz━━━☆!*
 ───────────────────────
 """
 
@@ -131,7 +131,7 @@ HELP_STRINGS = """
 
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting @cl_me_logesh \
+ You can support the project by contacting @jezznolimitz \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
@@ -480,10 +480,10 @@ def emiko_about_callback(update, context):
                 [
                
                  [
-                    InlineKeyboardButton(text="💕ᴏᴡɴᴇʀ ᴏғ ʙᴏᴛ sᴏᴄɪᴇᴛʏ💕", url="t.me/cl_me_logesh"),
+                    InlineKeyboardButton(text="💕ᴏᴡɴᴇʀ ᴏғ ʙᴏᴛ sᴏᴄɪᴇᴛʏ💕", url="t.me/jezznolimitz"),
                  ],
                   [
-                    InlineKeyboardButton(text="💕ʙᴏᴛs ᴜᴘᴅᴀᴛᴇ💕", url="t.me/logi_channel"),
+                    InlineKeyboardButton(text="💕ʙᴏᴛs ᴜᴘᴅᴀᴛᴇ💕", url="t.me/scaterchanel"),
                  ],
                   [
                     InlineKeyboardButton(text="🎭ɢᴏ ʙᴀᴄᴋ", callback_data="emiko_"),
