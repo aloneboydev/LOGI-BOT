@@ -40,7 +40,7 @@ logging.getLogger('ptbcontrib.postgres_persistence.postgrespersistence').setLeve
 LOGGER = logging.getLogger('[logi]')
 LOGGER.info("An Logi Project.")
 LOGGER.info("Don't worry i work proberly.")
-LOGGER.info("Project maintained by: github.com/logi-lab (t.me/cl_me_logesh)")
+LOGGER.info("Project maintained by: github.com/logi-lab (t.me/scatersuport)")
 
 # if version < 3.9, stop bot.
 if sys.version_info[0] < 3 or sys.version_info[1] < 9:
